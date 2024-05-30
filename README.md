@@ -1,4 +1,4 @@
-# Node JS Zoom Clone
+# Chat_room
 
 Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
 
